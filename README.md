@@ -219,7 +219,7 @@ To run tests using pytest, first create a virtual environment and install the de
 - `requirements_test.txt`: for test dependencies
 - `requirements_quality.txt`: for dependencies related to code quality (formatting, linting, complexity, etc.)
 Once you have the dependencies installed, you can run the tests using the following command from the root of your project directory:
-```
+```bash
 # Run all tests
 pytest
 # or, to run tests in a specific directory
